@@ -1,2 +1,3 @@
 # tradewind
-collection of all tools for automated premia execution
+collection of tools for automated premia execution
+
