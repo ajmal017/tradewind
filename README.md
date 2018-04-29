@@ -11,3 +11,6 @@ collection of tools for automated premia execution
 # * Implementation of strategies
 # * Web GUI of strategy design/customization
 # * Web GUI of strategy postion/level/statistics.
+
+# Last
+ibapi built and installed locally. Testbed/Program.py run failed b/c TWS not configured. Follow steps here: http://interactivebrokers.github.io/tws-api/introduction.html#how_to_use
